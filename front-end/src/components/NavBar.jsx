@@ -4,8 +4,8 @@ import "../css/NavBar.css"
 
 function NavBar() {
     return (
-        <nav className="nav-bar">
-            <div className="nav-brand">
+        <nav className="navbar">
+            <div className="navbar-brand">
                 <Link to="/"> Movie App</Link>
             </div>
             <div className="navbar-links">
